@@ -1,6 +1,6 @@
 # Speedtest
 
-## Official site link `https://www.speedtest.net/`
+## Official site link
 ```
 https://www.speedtest.net/
 ```
